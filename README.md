@@ -53,4 +53,4 @@ if __name__ == '__main__':
     
     print("Mot de passe généré : ",mot_de_passe)
 
-    auteur : m-camara
+ auteur : m-camara
